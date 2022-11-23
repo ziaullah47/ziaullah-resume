@@ -55,8 +55,7 @@ body {
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important; }
 
-hr {
-  margin: 2rem 0;
+hr {  
   color: #adb5bd;
   background-color: currentColor;
   border: 0;
@@ -7074,7 +7073,7 @@ progress {
     }
 
     .mb-4 {
-        margin-bottom: 3rem !important;
+        margin-bottom: 1rem !important;
     }
 
     .mb-5 {
@@ -7262,7 +7261,7 @@ progress {
     }
 
     .pb-4 {
-        padding-bottom: 3rem !important;
+        padding-bottom: 1rem !important;
     }
 
     .pb-5 {
@@ -10997,3 +10996,7 @@ progress {
         .hover-effect:hover {
             transform: translateY(-2px);
         }
+.certs a {
+    color: #656D78 !important;
+    text-decoration:none;
+}
