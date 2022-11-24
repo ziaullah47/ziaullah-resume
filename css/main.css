@@ -2,8 +2,10 @@
 /* Inputs */
 /* Timeline custom component */
 .timeline {
-  /*border-left: 2px solid #E6E9ED;*/
-  padding: 1rem 0; }
+    /*border-left: 2px solid #E6E9ED;*/
+    padding: 1rem 0;
+    max-width: 100%;
+}
 
 .timeline-card {
   position: relative;
